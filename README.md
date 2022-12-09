@@ -1,9 +1,13 @@
-### Hi
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I0G2IDQ)
+# Hey
+#### I am Paul, a Python Dev from Germany.
 
-- I’m currently working on a discord bot
--  How to reach me: [![discord]()](https://discord.com/users/456443941169004545)
--  Pronouns: he
+## What i did 
+-  Hexagon(Chat App)
+-  Losti-Bot(Discord Bot)
+-  losti-bot.xyz(Website)
+-  Spacemod(Discord Bot)
+-  db.py(Sql for python) 
+#### and many more (check out my public Repos)
 
-- I code a lot
-- I made losti-Bot :) https://losti-bot.xyz
+## Active Projects
+### My Current Project is Hexagon, its a free Chat App. You can create private Rooms and more.
