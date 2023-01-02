@@ -1,13 +1,9 @@
 # Hey
 #### I am Paul, a Python Dev from Germany.
 
-## What i did 
+## My Projects
 -  Hexagon(Chat App)
--  Losti-Bot(Discord Bot)
+-  Losti-Bot(Discord Bot with 43+ Servers and 2080+ Users)
 -  losti-bot.xyz(Website)
--  Spacemod(Discord Bot)
--  db.py(Sql for python) 
+-  Spacemod(Discord Bot for a competition)
 #### and many more (check out my public Repos)
-
-## Active Projects
-### My Current Project is Hexagon, its a free Chat App. You can create private Rooms and more.
