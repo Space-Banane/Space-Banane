@@ -1,9 +1,13 @@
-# Hey
-#### I am Paul, a Python Dev from Germany.
+# Hey there!
+#### Hey, i'm Paul also known as Space.
+#### You can look at some of my projects :)
+## What i do
+> ai shit
 
-## My Projects
--  Hexagon(Chat App)
--  Losti-Bot(Discord Bot with 43+ Servers and 2080+ Users)
--  losti-bot.xyz(Website)
--  Spacemod(Discord Bot for a competition)
-#### and many more (check out my public Repos)
+> Discord Bots
+
+> Chat Apps
+##### And more :)
+
+## Donate!
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I0G2IDQ)
