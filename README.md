@@ -5,7 +5,7 @@
 # About Space
 
 -  I am a Self Taught Developer from Germany trying to break and learn more things!
--  My Discord Server[here]([https://discord.gg/dyqmYDgfsr](https://discord.gg/6DB4npnZEW)).
+-  My Discord Server [here]([https://discord.gg/dyqmYDgfsr](https://discord.gg/6DB4npnZEW)).
 ---
 **🛠️ Languages And Tools**
 
