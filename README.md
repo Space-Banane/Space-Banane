@@ -2,7 +2,7 @@
   <img src="https://cdn.reversed.dev/pictures/banner.png" height="300"/>
 </div>
 
-** About Me**
+# About Space
 
 -  I am a Self Taught Developer from Germany trying to break and learn more things!
 -  My Discord Server[here]([https://discord.gg/dyqmYDgfsr](https://discord.gg/6DB4npnZEW)).
