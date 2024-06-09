@@ -2,7 +2,7 @@
   <img src="https://cdn.reversed.dev/pictures/banner.png" height="300"/>
 </div>
 
-# About Space
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=My+name+is+Space;Hey%2C+how+are+you%3F;I'm+Space%2C+a+german+developer!)](https://git.io/typing-svg)
 
 -  I am a Self Taught Developer from Germany trying to break and learn more things!
 -  My Discord Server [here]([https://discord.gg/dyqmYDgfsr](https://discord.gg/6DB4npnZEW)).
