@@ -1,22 +1,19 @@
 Hi 👋 My name is Space
 ======================
 
-Full Stack Dev
+Semi-Full Stack Dev
 --------------
 
-I'm working on a News App, not one where I am the source, but kinda where you are! Wanna Join Me on my Journey?
-
 *   🌍 I'm based in Germany
-*   🖥️ See my portfolio at [My Full Profile Page](http://space.reversed.dev)
-*   ✉️ You can contact me at [space@reversed.dev](mailto:space@reversed.dev)
-*   🚀 I'm currently working on [BetterNews](http://betternews.app)
-*   🧠 I'm learning ML using Tensorflow and Torch
-*   🤝 I'm open to collaborating on fun little gigs that don't take long
-*   ⚡ I love wasting time on Automating <a href="https://www.x.com/Space_Banane" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/twitter/follow/Space_Banane?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
+*   🖥️ See my portfolio at [(a site i broke more than one time)](http://space.reversed.dev)
+*   ✉️ You can probably contact me via [Old School Email](mailto:space@reversed.dev)
+*   🚀 I'm currently working on [BetterNews](https://betternews.app?ref=spaces_github)
+*   🧠 Mmmm learning ML with Tensorflow and Torch
+*   ⚡ I love wasting time on Automating
   </a>
 
 ### Skills
+I wish i had some
 
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -111,9 +108,10 @@ I'm working on a News App, not one where I am the source, but kinda where you ar
 </p>
 
 ### Badges
+They hate me cuz they aint me (I push tailwind css builds, send help)
 
 <a href="https://github.com/Space-Banane" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Space-Banane&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Space-Banane&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&hide=css" alt="Top Languages" />
 </a>
 
 ### Support Me
