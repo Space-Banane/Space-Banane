@@ -22,6 +22,8 @@ I love building mini projects that solve real problems (even if they're only rel
 Inactivity final boss
 ![Space's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Space-Banane&theme=tokyo-night&hide_border=true&area=true)
 
+> 💡 **More Projects on [Gitea](https://gitea.reversed.dev/space)** - Not a huge fan of GitHub, so most of my serious projects (with actual CI/CD pipelines) live here.
+
 ---
 
 ### 🌐 Connect With Me
