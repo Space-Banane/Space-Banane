@@ -18,11 +18,9 @@ I love building mini projects that solve real problems (even if they're only rel
 
 ---
 
-### 📊 GitHub Activity
-Inactivity final boss
-![Space's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Space-Banane&theme=tokyo-night&hide_border=true&area=true)
-
-> 💡 **More Projects on [Gitea](https://gitea.reversed.dev/space)** - Not a huge fan of GitHub, so most of my serious projects (with actual CI/CD pipelines) live here.
+### 📊 I moved to Gitea
+Since the start of 2026 i started working with my Selfhosted Gitea Instance, as its faster, allows me to run CI/CD as much as i want, and does not have Slopilot built in.
+> 💡 **More on [Gitea](https://gitea.reversed.dev/space)**
 
 ---
 
